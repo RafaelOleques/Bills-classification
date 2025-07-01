@@ -1,0 +1,2 @@
+SEED = 42
+K_FOLDS = 10
